@@ -1,2 +1,115 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_1859Preface.Capitalism" Collapsed="true">
+    <Position X="10.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAQAAAAABAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\SocialFormations\Capitalism.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_1859Preface.Feudalism" Collapsed="true">
+    <Position X="15.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\SocialFormations\Feudalism.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_1859Preface.RelationsOfProduction" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\RelationsOfProduction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1859Preface.Class" Collapsed="true">
+    <Position X="15.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EconomicsStruct\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1859Preface.LevelOfProduction" Collapsed="true">
+    <Position X="20.5" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EconomicsStruct\LevelOfProduction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1859Preface.Production" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EconomicsStruct\Production.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1859Preface.ProductiveForces" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQABAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>EconomicsStruct\ProductiveForces.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1859Preface.Classes.Capitalists" Collapsed="true">
+    <Position X="9" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Classes\SocialFormations\Relations\Capitalists.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1859Preface.Classes.Labors" Collapsed="true">
+    <Position X="11.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\SocialFormations\Relations\Labors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_1859Preface.Classes.PrimitiveCommunism" Collapsed="true">
+    <Position X="20.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\SocialFormations\PrimitiveCommunism.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_1859Preface.Classes.Slavery" Collapsed="true">
+    <Position X="22.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\SocialFormations\Slavery.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_1859Preface.Classes.SocialFormations.Communism" Collapsed="true">
+    <Position X="13.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\SocialFormations\Communism.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_1859Preface.Classes.SocialFormations.Socialism" Collapsed="true">
+    <Position X="18" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\SocialFormations\Socialism.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_1859Preface.EconomicsStruct.SocialFormation" Collapsed="true">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\SocialFormations\SocialFormation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_1859Preface.Exploite" Collapsed="true">
+    <Position X="20.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>EconomicsStruct\Exploite.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

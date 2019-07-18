@@ -4,8 +4,12 @@ using System.Text;
 
 namespace _1859Preface
 {
-    public abstract class Class : EconomicsStruct.SocialFormation
+    public class Feudalism : Class, Exploite
     {
 
+        public void Exploite()
+        {
+
+        }
     }
 }

@@ -6,7 +6,7 @@ using _1859Preface;
 
 namespace _1859Preface.Classes
 {
-    public class Capitalists
+    public class Capitalists : Capitalism
     {
         private int _suplus;
         public int Suplus

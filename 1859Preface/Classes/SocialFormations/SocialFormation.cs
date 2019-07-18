@@ -4,8 +4,8 @@ using System.Text;
 
 namespace _1859Preface.EconomicsStruct
 {
-    public abstract class SocialFormation : ProductiveForces
+    public abstract class SocialFormation
     {
-        public abstract void Product();
+
     }
 }
