@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
+using _1859Preface.EconomicsStruct;
+
 namespace _1859Preface.Classes
 {
-    public class Labors : ProductiveForces
+    public class Labors : SocialFormation
     {
         private int _power;
         public int Power
@@ -14,6 +16,11 @@ namespace _1859Preface.Classes
         }
 
         public override void LevelUp()
+        {
+
+        }
+
+        public override void Product()
         {
 
         }
